@@ -1,0 +1,6 @@
+Add / delete items to / from the list	  :   Completed
+Fetch a list of todo items from https://jsonplaceholder.typicode.com/todos and append thefirst 10 items to the list when first load	:  Completed
+User need to be able to edit the list after the application is reopened : 	Completed
+Mark the item as completed with a click to the item	: Pending
+Categorize items as "All", "Completed", "Active"	: Completed
+Style the application with your own CSS	: Pending
